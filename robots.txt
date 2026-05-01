@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://codifyx-codifyx-id.pages.dev/sitemap.xml
